@@ -2,5 +2,5 @@
 .venv
 .idea
 Lib
-__pycache__
+frente/__pycache__/
 
